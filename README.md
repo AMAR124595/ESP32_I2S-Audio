@@ -78,10 +78,13 @@ It was a great deep dive into embedded audio and working with real-time media on
 
 ---
 
-## 👤 Author
+---
 
-**Amar Gangadhar**
-Electronics & Embedded Systems Developer
+## 👤 Author
+**Amar Gangadhar A (SenseAbility innovations pvt.ltd)**  
+Electronics Engineer | Embedded Systems Designer |   Embedded Firmware Developer
+
+---
 
 
 
