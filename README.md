@@ -32,7 +32,7 @@ The project is built using **PlatformIO in Visual Studio Code**, making it modul
 
 Here’s the circuit diagram showing how the components are connected:
 
-![Circuit Diagram](<img width="971" height="575" alt="Screenshot 2025-09-27 212340" src="https://github.com/user-attachments/assets/7e0a3793-9b71-407d-8976-6bf2ac3a7b4e" />)
+![Circuit Diagram]("Screenshot 2025-09-27 212340" src="https://github.com/user-attachments/assets/7e0a3793-9b71-407d-8976-6bf2ac3a7b4e" />)
 
 > 💡 Make sure to connect the speaker to the MAX98357A breakout board’s + and - terminals.
 
