@@ -22,8 +22,8 @@ The project is built using **PlatformIO in Visual Studio Code**, making it modul
 |-----------------------------------|----------------------------------------------|
 | **ESP32 DevKit V1**               | Wi-Fi/BLE-capable microcontroller             |
 | **MAX98357A I2S Amplifier**       | Mono, 3W Class D amp (Adafruit breakout)      |
-| **Speaker (4Ω or 8Ω, 3W)**        | Outputs audio from the amp                    |
-| **Power **                        | 5v Power supply                               |
+| **Speaker (4Ω , 3W)**        | Outputs audio from the amp                    |
+| **Power**                         | 5v Power supply                               |
 | **Jumper Wires / Breadboard**     | For prototyping and connections               |
 
 ---
@@ -77,9 +77,30 @@ This project helped me:
 It was a great deep dive into embedded audio and working with real-time media on microcontrollers!
 
 ---
+## 📈Gain
+### GAIN is, well, the gain setting. You can have a gain of 3dB, 6dB, 9dB, 12dB or 15dB.
+
+* 15dB if a 100K resistor is connected between GAIN and GND
+* 12dB if GAIN is connected directly to GND
+* 9dB if GAIN is not connected to anything (this is the default)
+* 6dB if GAIN is connected directly to Vin
+* 3dB if a 100K resistor is connected between GAIN and Vin
+#### 📚References : https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/pinouts
+---
+## 📷 Project Photos
+
+### Breadboard Wiring (Top View)
+
+![1](https://github.com/user-attachments/assets/f7c71a9f-2947-4738-8e3b-9b8a244d2542)
+
+> Clean wiring layout using a mini breadboard and jumper wires.
 
 ---
-
+## 📚 References
+# 🔗 Link's  
+- YouTube Video                          : https://github.com/schreibfaul1/ESP32-audioI2S](https://www.youtube.com/watch?v=At8PDQ3g7FQ
+- MAX98357  Technical Reference          :[//learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/](https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/)
+---
 ## 👤 Author
 **Amar Gangadhar A (SenseAbility innovations pvt.ltd)**  
 Electronics Engineer | Embedded Systems Designer |   Embedded Firmware Developer
