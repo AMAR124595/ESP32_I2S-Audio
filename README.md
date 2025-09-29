@@ -96,6 +96,10 @@ This way, the default gain is 9dB but you can easily change it by tweaking the c
 ![1](https://github.com/user-attachments/assets/f7c71a9f-2947-4738-8e3b-9b8a244d2542)
 
 > Clean wiring layout using a mini breadboard and jumper wires.
+### Debugging information
+
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/14e3c43e-57b7-4ed3-af41-99f5b1fbfa94" />
+
 
 ---
 ## 📚 References
