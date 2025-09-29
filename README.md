@@ -85,6 +85,8 @@ It was a great deep dive into embedded audio and working with real-time media on
 * 9dB if GAIN is not connected to anything (this is the default)
 * 6dB if GAIN is connected directly to Vin
 * 3dB if a 100K resistor is connected between GAIN and Vin
+  
+This way, the default gain is 9dB but you can easily change it by tweaking the connection to the GAIN pin. Note you may need to perform a power reset to adjust the gain.
 #### 📚References : https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/pinouts
 ---
 ## 📷 Project Photos
