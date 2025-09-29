@@ -100,6 +100,9 @@ This way, the default gain is 9dB but you can easily change it by tweaking the c
 
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/14e3c43e-57b7-4ed3-af41-99f5b1fbfa94" />
 
+###  Audio File unloading 
+
+https://github.com/user-attachments/assets/3a18c22d-1c79-4996-8f83-7de4cadd103e
 
 ---
 ## 📚 References
